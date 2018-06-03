@@ -15,7 +15,7 @@ namespace HeadlightApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application desc page.";
 
             return View();
         }
