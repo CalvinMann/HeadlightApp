@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadlightApp", "HeadlightApp\HeadlightApp.csproj", "{B95A276C-48E7-482F-ACFE-446BAF2BB077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadlightApp.Tests", "HeadlightApp.Tests\HeadlightApp.Tests.csproj", "{57D0736B-2136-459C-BB94-F3BE69A2B8E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95A276C-48E7-482F-ACFE-446BAF2BB077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95A276C-48E7-482F-ACFE-446BAF2BB077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95A276C-48E7-482F-ACFE-446BAF2BB077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95A276C-48E7-482F-ACFE-446BAF2BB077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D0736B-2136-459C-BB94-F3BE69A2B8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D0736B-2136-459C-BB94-F3BE69A2B8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D0736B-2136-459C-BB94-F3BE69A2B8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D0736B-2136-459C-BB94-F3BE69A2B8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8296BF61-86D8-4349-94C5-667D49DA1677}
+	EndGlobalSection
+EndGlobal
